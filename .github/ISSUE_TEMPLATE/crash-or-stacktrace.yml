@@ -9,11 +9,11 @@ body:
       value: |
         Before submitting this issue, please ensure the following:
 
-        1. You are running the latest version of Paper from [our downloads page](https://papermc.io/downloads/paper).
-        2. Your version of Minecraft is supported by Paper.
+        1. You are running the latest build of FeatherMC for your version. You can get it from [our downloads page](https://feathermc.1chenyip.dev/download).
+        2. Your version of Minecraft is supported by FeatherMC.
 
-        If your server crash log contains `DO NOT REPORT THIS TO PAPER`, please ask in our
-        [Discord](https://discord.gg/papermc) before opening this issue. These messages are informing you of server
+        If your server crash log contains `DO NOT REPORT THIS TO FEATHER`, please ask in our
+        [Discord](https://discord.gg/feathermc) before opening this issue. These messages are informing you of server
         lag and providing debug information.
 
   - type: textarea
@@ -48,20 +48,19 @@ body:
 
   - type: textarea
     attributes:
-      label: Paper version
+      label: Feather version
       description: |
         Run `/version` on your server and **paste** the full, unmodified output here.
         "latest" is *not* a version; we require the output of `/version` so we can adequately track down the issue.
-        Additionally, do NOT provide a screenshot, you MUST paste the entire output.
+        Additionally, do NOT provide a screenshot; you MUST paste the entire output.
         <details>
         <summary>Example</summary>
 
         ```
         > version
         [20:34:42 INFO]: Checking version, please wait...
-        [20:34:42 INFO]: This server is running Paper version 1.21-105-master@7e91a2c (2024-07-20T21:04:31Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+        [20:34:42 INFO]: This server is running Feather version 1.21-105-master@7e91a2c (2024-07-20T21:04:31Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
         [20:34:42 INFO]: You are running the latest version
-        [20:34:42 INFO]: Previous version: 1.21-103-aa3b356 (MC: 1.21)
         ```
 
         </details>
