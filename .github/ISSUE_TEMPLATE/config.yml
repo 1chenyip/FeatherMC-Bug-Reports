@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: "❗Exploits"
-    url: https://discord.gg/feathermc
+    url: https://discord.gg/AeSSHRVxRX
     about: |
       Since GitHub doesn’t currently support private issues, exploit reports are managed through our Discord.
-      To report an exploit, please visit the #feather-exploit-report channel.
+      To report an exploit, please visit the #tickets channel and make a ticket using the Exploits category.
   - name: "🗨 Questions"
-    url: https://discord.gg/feathermc
+    url: https://discord.gg/AeSSHRVxRX
     about: If you have questions or need help with any minor issues, feel free to ask us on our Discord server!
